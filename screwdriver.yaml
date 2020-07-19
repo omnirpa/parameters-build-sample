@@ -5,7 +5,7 @@ parameters:
     region: "us-west-1"
     az:
         value: "1"
-        description: "default availability zone"
+        description: "default availability zone 111111"
 
 jobs:
     main:
