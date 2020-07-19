@@ -1,5 +1,5 @@
 shared:
-    image: node:8
+    image: python
 
 parameters:
     region: "us-west-1"
